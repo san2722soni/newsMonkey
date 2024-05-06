@@ -1,3 +1,19 @@
+
+# NEWS-MONKEY 
+
+WEB APP that helps with daily news. This applicaiton fetches data from news websites.
+
+
+
+## Demo
+
+https://news-monkey-ochre.vercel.app/
+## Features
+
+- Simple design
+- Multi page application
+- Fetches data from news webstie in real time.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
