@@ -1,0 +1,8 @@
+.newsfrom{
+  left: 89% !important;
+  z-index: 1;
+}
+body {
+  background-color: #0f0d0d;
+  color: white;
+}
