@@ -1,39 +1,37 @@
-﻿# NewsMonkey
+# newsMonkey
 
 React news application using external APIs, category browsing, and responsive article card layouts.
 
-## Overview
+## Why This Project Matters
 
-A classic React news app built to practice API integration, category-based browsing, routing, and responsive article layouts.
+This repository is kept as part of my portfolio/archive to show progression across frontend, full-stack, UI, and product-building work.
+
+## Highlights
+
+- API-driven article listing
+- Category browsing
+- Responsive card UI
+- Early React/API integration project
 
 ## Tech Stack
 
-React, JavaScript, News API, CSS/Bootstrap
+React, JavaScript, News API, responsive cards
 
-## Features
+## Demo
 
-- News API integration
-- Category-based browsing
-- Article card layout
-- Responsive frontend practice
+- Demo video: add when available
 
 ## Run Locally
 
-- Install dependencies with npm install
-- Run locally with npm start or the script defined in package.json
+`ash
+npm install
+npm run dev
+`
 
-## Showcase
+For static HTML/CSS projects, open the main index.html file directly or serve the folder with any local static server.
 
-Recommended assets for a stronger portfolio presentation:
+## Portfolio Notes
 
-- Demo video or walkthrough
-- 2-5 screenshots of the main workflow
-- Short architecture/API screenshot where relevant
-
-## Status
-
-Archived learning project.
-
-## Notes
-
-This repository is maintained as part of a developer portfolio. Secrets and local environment values should stay outside Git and be documented through .env.example files when required.
+- Built/maintained by Aswin Anand.
+- README polished for recruiter/project review.
+- Older projects are preserved as archive proof of frontend progression.
